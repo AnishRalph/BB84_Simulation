@@ -1,7 +1,7 @@
 # BB84_Simulation
 In this project I have implemented the BB84 quantum key encryption algorithm using python. <br>
 
-<br><h3>Description of Programs</h3>
+<h3>Description of Programs</h3>
 
 <br><b>Qubit.py</b><br>
 This is the module where the qubit object is created. Here, I've defined the rotation of the qubits and photons using a qubit object.<br>
